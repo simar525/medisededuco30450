@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://medised.edu.co/$1"
+ }
+  ]
+}
